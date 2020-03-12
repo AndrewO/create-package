@@ -1,0 +1,12 @@
+{
+  "name": "create-ao-package",
+  "version": "1.0.0",
+  "description": "Create NPM packages in the style of Andrew O'Brien",
+  "main": "create.sh",
+  "scripts": {},
+  "keywords": [
+    "create"
+  ],
+  "author": "Andrew O'Brien <obrien.andrew@gmail.com>",
+  "license": "ISC"
+}
